@@ -1,4 +1,4 @@
-package com.github.underplayer97.LSky;
+package com.github.underplayer97.LDuel;
 
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
