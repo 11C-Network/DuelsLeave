@@ -11,10 +11,10 @@ softdepend: []
 loadbefore: []
 permisions:
    LDuel.Leave:
-      description: Leave to the bedwars lobby
+      description: Leave to the Duels lobby
       default: true
 commands: 
    Leave:
-      description: Leave to the Skywars lobby
+      description: Leave to the Duels lobby
       permission: LDuel.Leave
       useage: /leave
