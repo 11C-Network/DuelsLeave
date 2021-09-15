@@ -1,4 +1,4 @@
-package com.github.underplayer97.LSkyils;
+package com.github.underplayer97.LDuels;
 
 import org.bukkit.ChatColor;
 
