@@ -1,20 +1,20 @@
-main: com.github.underplayer97.LSky.Main
-name: 11C-Plugin
+main: com.github.underplayer97.LDuel.Main
+name: DuelsLeave
 version: '1.0.0'
-description: Skywars Leave Command
+description: Duels Leave Command
 load: POSTWORLD
 author: 11C Development team and 11C Java Development team
 website: https://11c.org/
-prefix: 11C-Plugin
+prefix: DuelsLeave
 depend: []
 softdepend: []
 loadbefore: []
 permisions:
-   LSky.Leave:
+   LDuel.Leave:
       description: Leave to the bedwars lobby
       default: true
 commands: 
    Leave:
       description: Leave to the Skywars lobby
-      permission: LSky.Leave
+      permission: LDuel.Leave
       useage: /leave
